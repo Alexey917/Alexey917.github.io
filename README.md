@@ -13,3 +13,5 @@
 [Урок 9](https://alexey917.github.io/lesson_9/) - сайт из 7 урока, но с использованием bootstrap.
 
 [Урок 10](https://alexey917.github.io/lesson_10/less/style.less) - знакомство с less.
+
+[Урок 12](https://alexey917.github.io/lesson_12/) - работа с репозиторием на Github.

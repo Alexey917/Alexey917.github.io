@@ -12,4 +12,4 @@
 
 [Урок 9](https://alexey917.github.io/lesson_9/) - сайт из 7 урока, но с использованием bootstrap.
 
-[Урок 10](https://alexey917.github.io/lesson_10/less/style.less),(https://alexey917.github.io/lesson_10/css/style.css) - знакомство с less.
+[Урок 10](https://alexey917.github.io/lesson_10/less/style.less, https://alexey917.github.io/lesson_10/css/style.css) - знакомство с less.

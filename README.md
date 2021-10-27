@@ -17,3 +17,5 @@
 [Урок 12](https://alexey917.github.io/lesson_12/) - работа с репозиторием на Github.
 
 [Урок 13](https://alexey917.github.io/lesson_13/) - вёрстка PixelPerfect.
+
+[Практика.Часть 1](https://alexey917.github.io/Practice_%20part_1/) - вёрстка шапки сайта.

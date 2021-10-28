@@ -19,3 +19,5 @@
 [Урок 13](https://alexey917.github.io/lesson_13/) - вёрстка PixelPerfect.
 
 [Практика.Часть 1](https://alexey917.github.io/Practice_%20part_1/) - вёрстка шапки сайта.
+
+[Урок 14](https://alexey917.github.io/lesson_14/) - подключение шрифтов.

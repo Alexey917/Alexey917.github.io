@@ -21,3 +21,5 @@
 [Практика.Часть 1](https://alexey917.github.io/Practice_%20part_1/) - вёрстка шапки сайта.
 
 [Урок 14](https://alexey917.github.io/lesson_14/) - подключение шрифтов.
+
+[Практика.Часть 2](https://alexey917.github.io/Practice_part_2/) - подключение шрифтов. Верстка первого экрана.
